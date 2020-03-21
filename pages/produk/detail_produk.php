@@ -20,7 +20,7 @@
 		<div class="product">
 			<div class="container">
 				<div class="row">
-					
+
 					<!-- Product Image -->
 					<div class="col-lg-6">
 						<div class="product_image_slider_container">
@@ -75,16 +75,29 @@
 								</ul>
 							</div>
 							<div class="product_text">
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec consequat lorem. Maecenas elementum at diam consequat bibendum. Mauris iaculis fringilla ex, sit amet semper libero facilisis sit amet. Nunc ut aliquet metus. Praesent pulvinar justo sed velit tempus bibendum. Quisque dictum lorem id mi viverra, in auctor justo laoreet. Nam at massa malesuada, ullamcorper metus vel, consequat risus. Phasellus ultricies velit vel accumsan porta.</p>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec consequat lorem.
+									Maecenas elementum at diam consequat bibendum. Mauris iaculis fringilla ex, sit amet
+									semper libero facilisis sit amet. Nunc ut aliquet metus. Praesent pulvinar justo sed velit
+									tempus bibendum. Quisque dictum lorem id mi viverra, in auctor justo laoreet. Nam at massa
+									malesuada, ullasdasdasdasdasamcorper metus vel, consequat risus. Phasellus ultricies velit vel accumsan
+									porta.</p>
 							</div>
 							<div class="product_buttons">
 								<div class="text-right d-flex flex-row align-items-start justify-content-start">
 									<div class="product_button product_fav text-center d-flex flex-column align-items-center justify-content-center">
-										<div><div><img src="images/heart_2.svg" class="svg" alt=""><div>+</div></div></div>
-                                    </div>
+										<div>
+											<div><img src="images/heart_2.svg" class="svg" alt="">
+												<div>+</div>
+											</div>
+										</div>
+									</div>
 									<div class="product_button product_cart text-center d-flex flex-column align-items-center justify-content-center">
-										 <div><div><a href="index.php?module=checkout"><img src="images/cart.svg" class="svg" alt=""></a><div>+</div></div></div>
-                                    </div>
+										<div>
+											<div><a href="index.php?module=checkout"><img src="images/cart.svg" class="svg" alt=""></a>
+												<div>+</div>
+											</div>
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>
